@@ -46,11 +46,11 @@
 
 |  Assignment                               |  Solution | Date |        
 | ----------------------------------------  | --------- | -----|
-| [Concentration](assignment/Project_1.pdf) | [Concentration](./project/Concentration) | May 13. 2021
-| [Set](assignment/Project_2.pdf) | [Set](./Set) | 
-| [Graphical Set](assignment/Project_3.pdf) | [Graphical Set](./Graphic_Set) |
-| [Animated Set](assignment/Project_4.pdf) |[Animated Set](./Animated_Set) | 
-| [Image Gallery](assignment/Project_5.pdf) | [Image Gallery](./Image_Gallery) | 
-| [Persistent Image](assignment/Project_6.pdf)| [Persistent Image](./Presistent_Image_Gallery) | 
+| [Concentration](project/Concentration/Project_1.pdf) | [Concentration](./project/Concentration) | May 13. 2021
+| [Set](project/Set/Project_2.pdf) | [Set](./Set) | 
+| [Graphical Set](project/Graphical_Set/Project_3.pdf) | [Graphical Set](./Graphic_Set) |
+| [Animated Set](project/Animated_Set/Project_4.pdf) |[Animated Set](./Animated_Set) | 
+| [Image Gallery](project/Image_Gallery/Project_5.pdf) | [Image Gallery](./Image_Gallery) | 
+| [Persistent Image](project/Persistent_Image/Project_6.pdf)| [Persistent Image](./Presistent_Image_Gallery) | 
 
 
