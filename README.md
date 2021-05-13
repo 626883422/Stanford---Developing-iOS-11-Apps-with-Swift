@@ -7,8 +7,8 @@
 
 |  Lectures  |  Name  | duration | Slides | Demo  | Date |   
 | :---------:| :-----:|:-----:   | :---:  | :--:  | :--: |
-| [Lecture 1](https://www.bilibili.com/video/BV1os41137Ey?p=1) | Introduction to iOS 11, Xcode 9 and Swift 4 |1:21:59 |[slide](./lecture_slides/Lecture_1_Slides.pdf) | [demo](./lecture_1/demo) | May 10, 2021 
-| [Lecture 2](https://www.bilibili.com/video/BV1os41137Ey?p=2) | MVC's |1:12:00|[slide](./lecture_slides/Lecture_2_Slides.pdf)  | [demo](./lecture_2/demo) | May 10, 2021   
+| [Lecture 1](https://www.bilibili.com/video/BV1os41137Ey?p=1) | Introduction to iOS 11, Xcode 9 and Swift 4 |1:21:59 |[slide](./lecture_slides/Lecture_1_Slides.pdf) | [demo](./demo/lecture1) | May 10, 2021 
+| [Lecture 2](https://www.bilibili.com/video/BV1os41137Ey?p=2) | MVC's |1:12:00|[slide](./lecture_slides/Lecture_2_Slides.pdf)  | [demo](./demo/lecture2) | May 10, 2021   
 | [Lecture 3](https://www.bilibili.com/video/BV1os41137Ey?p=4) | Swift Programming Language |1:23:38|[slide](./lecture_slides/Lecture_3_Slides.pdf)  | [demo](./lecture_3/demo) | 
 | [Lecture 4](https://www.bilibili.com/video/BV1os41137Ey?p=5) | More Swift |1:27:28|[slide](./lecture_slides/Lecture_4_Slides.pdf)  | [demo](./lecture_4/demo) | 
 | [Lecture 5](https://www.bilibili.com/video/BV1os41137Ey?p=6) | Drawing |1:27:08| [slide](./lecture_slides/Lecture_5_Slides.pdf)  | [demo](./lecture_5/demo) | 
