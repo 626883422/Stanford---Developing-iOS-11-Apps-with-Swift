@@ -48,9 +48,9 @@
 | ----------------------------------------  | --------- | -----|
 | [Concentration](project/Concentration/Project_1.pdf) | [Concentration](./project/Concentration) | May 13. 2021
 | [Set](project/Set/Project_2.pdf) | [Set](./project/Set) | 
-| [Graphical Set](project/Graphical_Set/Project_3.pdf) | [Graphical Set](./project/Graphic_Set) |
+| [Graphical Set](project/Graphical_Set/Project_3.pdf) | [Graphical Set](./project/Graphical_Set) |
 | [Animated Set](project/Animated_Set/Project_4.pdf) |[Animated Set](./project/Animated_Set) | 
 | [Image Gallery](project/Image_Gallery/Project_5.pdf) | [Image Gallery](./project/Image_Gallery) | 
-| [Persistent Image](project/Persistent_Image/Project_6.pdf)| [Persistent Image](./project/Presistent_Image_Gallery) | 
+| [Persistent Image](project/Persistent_Image/Project_6.pdf)| [Persistent Image](./project/Persistent_Image) | 
 
 
