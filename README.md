@@ -38,9 +38,9 @@
 ## Reading 
 | Reading                             | Name |
 | ----------------------------------- |:----:|
-|  1. |[Reading 1: Intro to Swift](reading/Reading_1.pdf)
-|  2. |[Reading 2: More Swift](reading/Reading_2.pdf) 
-|  3. |[Reading 3: The Rest of Swift](reading/Reading_3.pdf) 
+|  1. |[Reading 1: Intro to Swift](Reading/Reading_1.pdf)
+|  2. |[Reading 2: More Swift](Reading/Reading_1.pdf) 
+|  3. |[Reading 3: The Rest of Swift](Reading/Reading_1.pdf) 
 
 ## Assignment 
 
