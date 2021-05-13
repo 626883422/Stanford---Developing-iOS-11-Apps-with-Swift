@@ -5,8 +5,8 @@
 ## Lectures And Slides & Demo
 
 
-|  Lectures |  Name  | duration | Slides | Demo  | Date |   
-| :--------:| :-----:|:-----:   | :---:  | :--:  | :--: |
+|  Lectures  |  Name  | duration | Slides | Demo  | Date |   
+| :---------:| :-----:|:-----:   | :---:  | :--:  | :--: |
 | [Lecture 1](https://www.bilibili.com/video/BV1os41137Ey?p=1) | Introduction to iOS 11, Xcode 9 and Swift 4 |1:21:59 |[slide](./lecture_1/Lecture_1_Slides.pdf) | [demo](./lecture_1/demo) | May 10, 2021 
 | [Lecture 2](https://www.bilibili.com/video/BV1os41137Ey?p=2) | MVC's |1:12:00|[slide](./lecture_2/Lecture_2_Slides.pdf)  | [demo](./lecture_2/demo) | May 10, 2021   
 | [Lecture 3](https://www.bilibili.com/video/BV1os41137Ey?p=4) | Swift Programming Language |1:23:38|[slide](./lecture_3/Lecture_3_Slides.pdf)  | [demo](./lecture_3/demo) | 
