@@ -7,7 +7,10 @@
 
 |  Lectures |  Name  |Slides | Demo  | Date |   
 | :--------:| :-----:|:-----: | :---: | :--: |
-| [Lecture 1](https://www.youtube.com/watch?v=71pyOB4TPRE&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq&index=1) | Introduction to iOS 11, Xcode 9 and Swift 4 |[slide](./lecture_1/Lecture_1_Slides.pdf) | [demo](./lecture_1/demo) | Dec 26, 2017 
+| [Lecture 1](https://www.bilibili.com/video/BV1os41137Ey?t=81) | 
+P1
+第1讲 - iOS 11，Xcode 9和Swift 4简介
+1:21:59 |[slide](./lecture_1/Lecture_1_Slides.pdf) | [demo](./lecture_1/demo) | Dec 26, 2017 
 | [Lecture 2](https://www.youtube.com/watch?v=w7a79cx3UaY&index=2&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | MVC's |[slide](./lecture_2/Lecture_2_Slides.pdf)  | [demo](./lecture_2/demo) | Dec 27, 2017   
 | [Lecture 3](https://www.youtube.com/watch?v=ZbpjTPzf8x4&index=4&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) |  Swift Programming Language |[slide](./lecture_3/Lecture_3_Slides.pdf)  | [demo](./lecture_3/demo) | Dec 29, 2017
 | [Lecture 4](https://www.youtube.com/watch?v=FU2V0YRQIOw&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq&index=5) | More Swift |[slide](./lecture_4/Lecture_4_Slides.pdf)  | [demo](./lecture_4/demo) | Dec 30, 2017 
