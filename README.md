@@ -10,7 +10,7 @@
 | [Lecture 1](https://www.bilibili.com/video/BV1os41137Ey?p=1) | Introduction to iOS 11, Xcode 9 and Swift 4 |1:21:59 |[slide](./lecture_slides/Lecture_1_Slides.pdf) | [demo](./demo/lecture1) | May 10, 2021 
 | [Lecture 2](https://www.bilibili.com/video/BV1os41137Ey?p=2) | MVC's |1:12:00|[slide](./lecture_slides/Lecture_2_Slides.pdf)  | [demo](./demo/lecture2) | May 10, 2021   
 | [Lecture 3](https://www.bilibili.com/video/BV1os41137Ey?p=4) | Swift Programming Language |1:23:38|[slide](./lecture_slides/Lecture_3_Slides.pdf)  |  | May 14, 2021 
-| [Lecture 4](https://www.bilibili.com/video/BV1os41137Ey?p=5) | More Swift |1:27:28|[slide](./lecture_slides/Lecture_4_Slides.pdf)  | [demo](./demo/lecture4) | 
+| [Lecture 4](https://www.bilibili.com/video/BV1os41137Ey?p=5) | More Swift |1:27:28|[slide](./lecture_slides/Lecture_4_Slides.pdf)  | [demo](./demo/lecture4) |  May 14, 2021 
 | [Lecture 5](https://www.bilibili.com/video/BV1os41137Ey?p=6) | Drawing |1:27:08| [slide](./lecture_slides/Lecture_5_Slides.pdf)  | [demo](./demo/lecture5) | 
 | [Lecture 6](https://www.bilibili.com/video/BV1os41137Ey?p=7) | Multitouch |1:25:23| [slide](./lecture_slides/Lecture_6_Slides.pdf)  | [demo](./demo/lecture6) | 
 | [Lecture 7](https://www.bilibili.com/video/BV1os41137Ey?p=8) | Multiple MVCs, Timer and Animation |1:17:01| [slide](./lecture_slides/Lecture_7_Slides.pdf)  | [demo](./demo/lecture7) | 
